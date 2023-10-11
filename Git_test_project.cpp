@@ -6,7 +6,10 @@
 int main()
 {
     std::cout << "Hello Github!\n";
+
     std::cout << "LC1C_19_タイラ_タクヤ\n";
+
+    std::cout << "2023/10/11\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
