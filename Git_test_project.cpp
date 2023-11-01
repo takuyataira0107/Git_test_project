@@ -14,6 +14,8 @@ int main()
     std::cout << "player作成\n";
 
     std::cout << "マージしてください\n";
+
+    std::cout << "プルせずに作業した\n";
    
 }
 
